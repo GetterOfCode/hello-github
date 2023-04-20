@@ -6,6 +6,7 @@ public class Main {
         System.out.println("hell");
         System.out.println();
         System.out.println(5 + 5.0);
+        System.out.println(666666);
         
     }
    
