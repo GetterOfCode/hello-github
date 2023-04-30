@@ -1,5 +1,11 @@
 package com.hainiu.recursion;
 
+/**
+ * hanoi tower problem, 解决汉诺塔问题 一般递归问题都可以用动态规划算法解决。
+ * @author qishuo
+ *  @date 2023/4/30
+ *
+ */
 public class HanoiDemo {
     public static void main(String[] args) {
         System.out.println(hanoi1(6));

@@ -31,6 +31,5 @@ public class Verify {
         sb.delete(0,s.length());
         return s;
 
-
     }
 }

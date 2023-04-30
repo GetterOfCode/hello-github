@@ -1,10 +1,14 @@
 package com.hainiu.recursion;
 
+/**
+ * 递归解决迷宫问题
+ * author:qishuo
+ * Date:2019/3/1
+ */
 public class MazeDemo {
     public static void main(String[] args) {
         System.out.println(maze(0, 0));
     }
-
     /**
      * 递归算法解决迷宫路径问题
      * @param x
