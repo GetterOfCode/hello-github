@@ -44,7 +44,6 @@ public class JdbcUtil {
         }
         return conn;
     }
-
     /**
      * 关闭结果集、SQL处理对象和连接
      * @param resultSet
@@ -63,7 +62,6 @@ public class JdbcUtil {
             connection.close();
         }
     }
-
     /**
      * 关闭SQL处理对象和连接
      * @param statement

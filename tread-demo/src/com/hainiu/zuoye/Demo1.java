@@ -10,8 +10,6 @@ public class Demo1 {
 //        test1();
 //        test2();
         test3();
-
-
     }
 
     /**
@@ -25,7 +23,6 @@ public class Demo1 {
         Thread thread2 = new Thread(integerFutureTask2,"thread2");
         thread1.start();
         thread2.start();
-
     }
 
     /**

@@ -36,6 +36,5 @@ public class Demo1 {
             System.out.print(list.get(i)+" ");
         }
         System.out.println();
-
     }
 }

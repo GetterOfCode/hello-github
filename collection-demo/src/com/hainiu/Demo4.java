@@ -23,7 +23,6 @@ public class Demo4 {
                     i = 0;
                 }
                 return i;
-
             }
         });
         workers.add(new Worker("james",27,9000));
@@ -34,8 +33,5 @@ public class Demo4 {
         workers.add(new Worker("boe",27,9000));
         //foreach
         workers.forEach(System.out::println);
-
-
-
     }
 }

@@ -1,5 +1,4 @@
 package com.hainiu;
-
 import com.alibaba.druid.pool.DruidPooledConnection;
 import com.hainiu.autil.JdbcUtil;
 import com.mysql.jdbc.Connection;
